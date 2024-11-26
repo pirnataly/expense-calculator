@@ -1,0 +1,2 @@
+# expense-calculator
+Educational project
